@@ -1,0 +1,2 @@
+How to Choose the Best Project Management Software file1 in new_branch_for_git_conflict >file1.txt                                                                           echo Is my data safe with Project Management software?  file2  in new_branch_for_git_conflict echo Why do I need project management software? file3 in new_branch_for_git_conflict >file3.txt                                                                              
+   echo How steep is the learning curve?  file4  in new_branch_for_git_conflict
